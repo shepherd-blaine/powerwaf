@@ -1,0 +1,15 @@
+python
+cgi-bin
+xmlrpc
+\.\.\/
+\.\.%2f
+\.%2e
+select
+TomcatBypass
+zgrab
+bounty
+Java
+\.git
+\.svn
+vendor
+sql

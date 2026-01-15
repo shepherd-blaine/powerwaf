@@ -1,0 +1,2 @@
+# Place ip on each line
+# like 12.34.56.0/24 or 12.34.56.78
